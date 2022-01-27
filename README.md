@@ -3,6 +3,6 @@ It is a semester project for Object Oriented Programming written in java. (a min
 
 Username: admin
 
-Password: 123
+Password: 12345678
 
-For queries contact: iamabdullahshahid@gmail.com
+For queries contact: arnav010600@gmail.com
